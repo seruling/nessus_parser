@@ -7,4 +7,4 @@ only grab the following:
 -port and protocol
 -synopsis
 -solution
--risk_factor
+-risk_factor (does not include value of none)
